@@ -1,0 +1,11 @@
+{
+  "name" : "heroku_bot",
+  "version" : "0.0.1",
+  "scripts" : {
+    "start": "node index.js"
+  },
+
+  "dependencies": {
+    "express" : ">=4.15.3"
+  }
+}
